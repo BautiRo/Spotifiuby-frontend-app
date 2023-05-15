@@ -1,0 +1,24 @@
+{
+  "spotifiuby": {
+    "Open up `App.js` to start working on your app!": "Edita `App.js` para empezar a trabajar en la app!",
+    "currentLanguageDisplayer": "El idioma actual es `{{ lang }}`",
+    "Change applicacation language": "Cambiar el idioma de la aplicación",
+    "Login button": "Botón para ingresar",
+    "Username": "Nombre de usuario",
+    "Username input": "Entrada para nombre de usuario",
+    "Password": "Contraseña",
+    "Password input": "Entrada para contraseña",
+    "Login": "Ingresar",
+    "Email": "Correo electrónico",
+    "Email input": "Entrada para correo electrónico",
+    "My favorite songs": "Mis canciones favoritas",
+    "Playing": "Reproduciendo",
+    "Change language": "Cambiar idioma",
+    "Settings": "Configuración",
+    "Home": "Inicio",
+    "auth/invalid-email": "Correo electrónico inválido",
+    "auth/user-not-found": "Correo electrónico no registrado",
+    "auth/wrong-password": "Combinación incorrecta de correo electrónico con contraseña",
+    "": ""
+  }
+}
